@@ -75,13 +75,21 @@ Built a **Streamlit app** for interactive predictions:
    git clone https://github.com/Tim-Tim100/House-Price-Prediction.git
    cd house-price-prediction
 
+2. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
  
 ---
 
-## ⚡ Install dependencies
+3.   Run the Streamlit App
 
    ```bash
-  pip install -r requirements.txt
+  streamlit run app/app.py
+
+---
+
+
+
 
 
 
